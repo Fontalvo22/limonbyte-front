@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    font-family: Montserrat, Arial;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+header p {
+    font-size: 1rem;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
